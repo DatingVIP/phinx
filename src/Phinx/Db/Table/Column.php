@@ -156,7 +156,7 @@ class Column
     /**
      * Sets the column limit.
      *
-     * @param integer
+     * @param integer $limit
      * @return Column
      */
     public function setLimit($limit)
@@ -168,7 +168,7 @@ class Column
     /**
      * Gets the column limit.
      *
-     * @return integer
+     * @return integer $limit
      */
     public function getLimit()
     {
