@@ -168,7 +168,7 @@ class Column
     /**
      * Gets the column limit.
      *
-     * @return integer $limit
+     * @return integer
      */
     public function getLimit()
     {
